@@ -1,5 +1,9 @@
 # PyTorch
 
+## Installation
+
+Build customized conda command based on parameters using [this page](http://pytorch.org/) and run it.
+
 ## Documentation
    * [PyTorch Docs](http://pytorch.org/docs/)
 
