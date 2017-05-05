@@ -1,5 +1,12 @@
 # Tensorflow
 
+## Installation
+
+Get the value for TF\_BINARY\_URL from [here](http://tflearn.org/installation/), then execute following commands:
+
+    export TF_BINARY_URL=value
+    pip install --upgrade $TF_BINARY_URL
+
 ## Documentation
    * [Tensorflow API](https://www.tensorflow.org/api_docs/python/)
 
