@@ -2,7 +2,8 @@
 
 ## Installation
 
-Build customized conda command based on parameters using [this page](http://pytorch.org/) and run it.
+Build customized conda command based on parameters using [this page](http://pytorch.org/) and run it. Currently installed version of PyTorch is 0.1.12\_2.
+
 
 ## Documentation
    * [PyTorch Docs](http://pytorch.org/docs/)
