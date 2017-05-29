@@ -2,7 +2,7 @@
 
 ## Installation
 
-Based on information on the [Theano Install Page](http://deeplearning.net/software/theano/install_macos.html).
+Based on information on the [Theano Install Page](http://deeplearning.net/software/theano/install_macos.html). Currently installed version of Theano is 0.9.0.dev-c697eeab84e5b8a74908da654b66ec9eca4f1291.
 
     conda install theano
 
